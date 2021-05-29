@@ -5,4 +5,7 @@
 - Built Frontend using JavaScript, HTML and CSS
 - MySQL database used
 
+
+### Output screenshots:
+
 ![screenshot](./ss.png)
