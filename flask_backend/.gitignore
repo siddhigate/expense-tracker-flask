@@ -1,0 +1,13 @@
+venv/
+_pychache_/
+__pycache__/db.cpython-39.pyc
+*.pyc
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/expense-tracker-flask.iml
+.idea/misc.xml
+__pycache__/app.cpython-39.pyc
+templates/index.html
+__pycache__/app.cpython-39.pyc
